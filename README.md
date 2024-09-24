@@ -38,11 +38,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ironcrush2006&show_icons=true&locale=en&layout=compact" alt="ironcrush2006" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ironcrush2006&theme=dark" alt="ironcrush2006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-NV-06&theme=dark" alt="ironcrush2006" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ironcrush2006&show_icons=true&locale=en" alt="ironcrush2006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-NV-06&show_icons=true&locale=en" alt="ironcrush2006" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
