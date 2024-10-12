@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya N V</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left"> <a href="https://twitter.com/adityaironcrush" target="blank"><img src="https://img.shields.io/twitter/follow/adityaironcrush?logo=twitter&style=for-the-badge" alt="adityaironcrush" /></a> </p>
 
 - 🔭 I’m currently working on **Fullstack projects**
@@ -17,6 +19,9 @@
 
 - 📫 How to reach me **adityanv4@gmail.com**
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![An image of @ironcrush2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ironcrush2006)](https://holopin.io/@ironcrush2006)
 
