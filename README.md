@@ -47,6 +47,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-NV-06&show_icons=true&locale=en" alt="ironcrush2006" /></p>
 
+### Github activity graph 
+[![Aditya NV's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-NV-06&bg_color=1a191a&color=b2b4a7&line=22bf24&point=1f648e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
