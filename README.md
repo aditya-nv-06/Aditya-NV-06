@@ -50,8 +50,8 @@
 ### Github activity graph 
 [![Aditya NV's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-NV-06&bg_color=1a191a&color=b2b4a7&line=22bf24&point=1f648e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![An image of @ironcrush2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Aditya-NV-06)](https://holopin.io/@Aditya-NV-06)
-
+### MY badges
+[![An image of @ironcrush2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ironcrush2006)](https://holopin.io/@ironcrush2006)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
