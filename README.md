@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- **GitHub student developer pack approved**
-
 - 📫 How to reach me **adityanv4@gmail.com**
 
 <div id="header" align="left">
