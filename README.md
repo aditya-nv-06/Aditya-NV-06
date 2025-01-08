@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **Reactjs ,Nodejs, Nextjs**
+- 🌱 I’m currently learning **Reactjs ,Nodejs, Nextjs,Prisma**
 
 - Studying in 2nd year of  BE computer science  
 
