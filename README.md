@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 - 🌱 I’m currently learning **Reactjs ,Nodejs, Nextjs,Prisma**
-- Studying in 2nd year of  BE computer science  
+- Studying in 3nd year of  BE computer science  
 - 👯 I’m looking to collaborate on **Opensource projects**
 - 📫 How to reach me **adityanv4@gmail.com**
 
